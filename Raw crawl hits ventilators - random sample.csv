@@ -1,0 +1,334 @@
+Company,# of hits,Owner,Class,Webpage
+smiths-medical.com,54800,Aman,Error: Related product,https://www.smiths-medical.com/products/veterinary/ventilators
+hill-rom.com,17700,Aman,Correct,https://respiratorycare.hill-rom.com/en/patients/products/
+zoll.com,12400,Aman,Correct,https://www.zoll.com/products/ventilators
+venteclife.com,10700,Aman,Correct,https://www.venteclife.com/page/resources
+cpapusa.com,8590,Aman,Correct,https://www.cpapusa.com/refurbished-ventilators.html
+laerdal.com,8270,Aman,Error: Related product,https://www.laerdal.com/us/products/tech/ASL5000LungSolution/
+mms.mckesson.com,7910,Aman,Correct,https://mms.mckesson.com/product/883949/Allied-Healthcare-AHP300
+selectmedical.com,5680,James,Error: Related product,https://www.selectmedical.com/critical-illness-recovery-hospitals/pulmonary-and-ventilator-weaning/
+molinahealthcare.com,5630,James,Error: Related product,http://www.molinahealthcare.com/providers/wa/medicaid/resource/PDF/MCG-275-Noninvasive-Positive-Pressure-Ventilation.pdf
+passy-muir.com,5560,James,Error: Related product,https://www.passy-muir.com/vent_adjust/
+medicalmega.com,4360,James,Error: Related product,https://www.medicalmega.com/product/adaptor-ventilator-each
+carefusion.com,4100,James,Correct,http://pages.carefusion.com/rs/565-YXD-236/images/RC_AVEA-Modes-Guide_UG_EN.pdf
+iiimedical.com,2820,James,Correct,https://iiimedical.com/product-category/ventilator-circuits/
+triumphmed.com,2210,Cass,Correct,https://triumphmed.com/product-category/medical-equipment/ventilators/
+sageproducts.com,1780,Cass,Correct,https://sageproducts.com/wp-content/uploads/20303C_Oral_care_of_the_mechanically_ventilated_patient_you_can_make_a_difference_in_five_minutes_poster.pdf
+medcompnet.com,1130,Cass,Correct,http://medcompnet.com/products/ifu_pages/IFUs/CVC/40212___I__10-2-15_Pro-Line_INTL.pdf
+mfimedical.com,1040,Cass,Correct,https://mfimedical.com/collections/ventilators
+averybiomedical.com,954,Cass,Error: Related product,https://www.averybiomedical.com/understanding-mechanical-ventilation-quadriplegia/
+integrisequipment.com,666,Cass,Correct,https://www.integrisequipment.com/Ventilators_s/1860.htm
+teleflexsurgicalcatalog.com,588,Cass,Error: Related product,http://www.teleflexsurgicalcatalog.com/anesthesia-respiratory/respiratory/category/ventilator-accessories
+bunl.com,552,Cass,Correct,https://www.bunl.com/
+quadmed.com,210,Cass,Error: Related product,https://www.quadmed.com/products/breathing/emergency-transport-ventilators
+unipower.com,193,Cass,Error: Related product,https://unipower.com/products/medical/impact-medical-corp/750-uni-vent-ventilator
+cigna.com,182,Cass,Error: Related product,https://cignaforhcp.cigna.com/public/content/pdf/coveragePolicies/medical/mm_0546_coveragepositioncriteria_home_ventilators.pdf
+georgephilips.com,164,Cass,Correct,http://georgephilips.com/categoryphp/7/respiratory-ventilator-products.html
+braintreesci.com,157,Cass,Correct,https://www.braintreesci.com/products.asp?dept=76
+heartlandmedical.com,155,Cass,Correct,https://www.heartlandmedical.com/medical-equipment/respiratory-ventilators/
+hcsgi.com,136,Cass,Correct,https://www.hcsgi.com/respiratory-assist-devices/ventilator-category
+incav.com,133,Surabhi,Correct,https://www.incav.com/products/ventilators20
+aironusa.com,118,Surabhi,Correct,https://aironusa.com/products/ventilation/pneuton-model-a-ventilator/
+event-medical.com,116,Surabhi,Correct,https://event-medical.com/products
+invacare.com,116,Surabhi,Error: Related product,http://www.invacare.com/parts/assembly/24167.pdf
+teleflex.com,111,Surabhi,Error: Related product,https://www.teleflex.com/usa/en/product-areas/respiratory/passive-humidification-and-filtration/bacterial-viral-filters/index.html
+medicaleshop.com,99,Surabhi,Error: Unrelated product,https://www.medicaleshop.com/kid-kart-xpress-tilt-stroller.html
+atcmedical.com,83,Surabhi,Error: Related product,https://www.atcmedical.com/Respiratory/Ventilator_Care_Supplies/CAREFUSION_ADULT_SINGLELIMB_PORTABLE_VENTILATOR_CIRCUIT_INCLUDES_6_PATIENT_TUBE_AND_TRACH_ELBOW_ADAPTER_60_AIR_TUBE_70_PRESSURE_SENSING_LINE_AND_TIP_ADAPTER/product.aspx
+medeqipexp.com,79,Surabhi,Correct,https://es.medeqipexp.com/producto/ge-aestiva-5/
+gcx.com,57,Surabhi,Error: Related product,https://www.gcx.com/services/oem/portfolio/philips-respironics-v60-ventilator-cart
+ccrmed.com,53,Surabhi,Error: Related product,https://ccrmed.com/product/jet-ventilation-catheter-for-emergency-ventilation/
+fobi.us,49,Surabhi,Correct,https://fobi.us/product-tag/ventilator/
+carefusion.de,48,Surabhi,Error: Related product,http://www.carefusion.de/documents/international/articles/respiratory-care/airlife-products/RC_AirLife-High-Flow-Nebulizer-Adapter-and-Pegasus-Nebulizer-Heater_JA_EN.pdf
+wirelessnursecall.com,46,Surabhi,Error: Related product,https://www.wirelessnursecall.com/products/ventilator-alarm
+westmedinc.com,46,Surabhi,Error: Related product,https://westmedinc.com/neo-pod-t/
+alphasource.com,43,Surabhi,Correct,https://netlink.alphasource.com/__prod/browse.cfm?&mfgltr=n&mfg=NEWPORT%20MEDICAL&category=medical%20batteries
+onstaffusa.com,42,Surabhi,Error: Related product,https://onstaffusa.com/career-opportunities/parker-hannifin-14-hr-ventilator-part-assembly-start-work-monday/
+michiganinstruments.com,42,Surabhi,Error: Related product,https://www.michiganinstruments.com/lung-simulators/adult-test-lung-simulators/
+martab.com,40,Surabhi,Correct,https://martab.com/product/tv-100-ventilator/
+angelmedicalsupply.com,40,Surabhi,Correct,https://www.angelmedicalsupply.com/products/ventilators
+wemed1.com,39,Surabhi,Error: Related product,http://www.wemed1.com/downloads/dl/file/id/6501/product/3442/manual_for_vent_fp_mr850.pdf
+advimg.com,37,Surabhi,Correct,http://www.advimg.com/product/neonatal-transportmri-ventilator/
+acbio.com,35,Rachael,Error: Related product,https://acbio.com/
+mpe-inc.com,34,Rachael,Error: Related product,https://mpe-inc.com/mpe-ventilator-device-cart/
+jdmedical.com,31,Rachael,Correct,http://jdmedical.com/veterinary-anesthesia-machines-products/ventilators-anesthesia-machines/lav-3000-large-animal-ventilator/
+colonialmed.com,27,Rachael,Error: Related product,http://www.colonialmed.com/p-9558-ultraset-mechanical-ventilation-double-swivel-elbow.aspx
+beevers.net,27,Rachael,Error: Related product,http://www.beevers.net/Tilson-Trach-Guard-for-you
+wellcare.com,26,Rachael,Error: Related product,https://www.wellcare.com/Kentucky/Providers/Clinical-Guidelines/CCGs/CCG-List
+midmark.com,26,Rachael,Error: Related product,https://www.midmark.com/animal-health/products/anesthesia/small-animal-anesthesia-ventilator-model-3000
+henryschein.com,23,Rachael,Error: Related product,https://www.henryschein.com/assets/Medical/2430042.pdf
+health.howstuffworks.com,22,Rachael,Error: Related product,https://health.howstuffworks.com/medicine/modern-technology/ventilators.htm
+shopmedvet.com,22,Rachael,Error: Related product,https://www.shopmedvet.com/category/anesthesia-respiratory-equipment
+ocelco.com,21,Rachael,Correct,https://www.ocelco.com/store/pc/MRI-Non-Magnetic-ventiPac-with-Integrated-Alarms-p13168.htm
+medicalsupplygroup.com,21,Rachael,Error: Related product,https://medicalsupplygroup.com/p-18300-ultrasetreg-mechanical-ventilation-double-swivel-elbow.aspx
+sscor.com,20,Rachael,Error: Related product,https://blog.sscor.com/4-signs-a-patient-on-a-mechanical-ventilator-requires-suctioning
+ddmed.com,20,Rachael,Correct,http://www.ddmed.com/products/ventilators_and_cpap_devices.html
+oxycareplus.com,20,Rachael,Correct,https://www.oxycareplus.com/ventilators-for-sale
+voxello.com,20,Rachael,Error: Related product,https://voxello.com/News/
+sleepnetmasks.com,20,Rachael,Error: Related product,http://www.sleepnetmasks.com/respiratory-masks/mojo-non-vented-full-face-mask/
+devilbisshealthcare.com,20,Rachael,Error: Related product,http://www.devilbisshealthcare.com/files/Heavy%20Duty%20Inst%20Guide_A-703RevE.pdf
+medequipdepot.com,19,Rachael,Error: Related product,https://www.medequipdepot.com/2280-0000-carefusion-gem-v-syr-20pk/
+edwards.com,19,Rachael,Error: Related product,http://ht.edwards.com/resourcegallery/products/swanganz/pdfs/abbinstccombo.pdf
+flintrehab.com,19,Sohan,Error: Unrelated product,https://www.flintrehab.com/2020/stroke-recovery-timeline/
+inogen.com,19,Sohan,Error: Unrelated product,http://investor.inogen.com/
+medicaldepartmentstore.com,19,Sohan,Correct,https://www.medicaldepartmentstore.com/Ventilation-Equipment-s/3171.htm
+datasci.com,18,Sohan,Error: Related product,https://www.datasci.com/products/buxco-respiratory-products/finepointe-resistance-and-compliance
+biolifesolutions.com,18,Sohan,Error: Unrelated product,https://www.biolifesolutions.com/tag/ventilator/
+peppermedical.com,18,Sohan,Error: Related product,https://www.peppermedical.com/products/about-respiratory/about-vent-ties
+medela.us,17,Sohan,Error: Unrelated product,https://www.medela.us/breastfeeding-professionals/blog/oral-care-the-immune-powers-of-human-milk
+omneotech.com,17,Sohan,Error: Unrelated product,http://www.omneotech.com/images/Clinical_Guidelinesl_for_Use_CAM_Rescue_Cath.pdf
+hydroworx.com,17,Sohan,Error: Unrelated product,https://www.hydroworx.com/research-education/video-library/
+briggshealthcare.com,16,Sohan,Error: Unrelated product,https://www.briggshealthcare.com/assets/itemdownloads/itemSDS/3429P.pdf
+esutures.com,16,Sohan,Error: Related product,https://www.esutures.com/product/1-expired/43-medtronic/101-miscellaneous/46301133-medtronic-puritan-bennett-dx800-expiratory-filter-4-076887-00/
+i-ma.com,15,Sohan,Error: Unrelated product,http://cp.i-ma.com/brochures/Vidatak/Communication-Boards-in-Critical-Care-Patients-Views.pdf
+vitasurgical.com,15,Sohan,Error: Unrelated product,http://www.vitasurgical.com/Medical-research/Group-of-Medicines-31/Depakote/
+smec.biz,14,Sohan,Error: Unrelated product,http://www.smec.biz/Catalog/Product/106334/Astral-150-Ventilator--27003
+surgicaltools.com,13,Sohan,Correct,https://www.surgicaltools.com/cat/anesthesia/ventilators/ventilators-and-testing-support
+defibtech.com,13,Sohan,Error: Unrelated product,http://www.defibtech.com/sites/defibtech.com/files/SPECS%20PAGES%20ONLY%20-%20DAC-A704-EN-BB%20rev%20A%20-%20Lifeline%20AED(SG)%20Spec%20Sht%20Elec.pdf
+thayermedical.com,13,Sohan,Error: Related product,http://thayermedical.com/products/valved-tee/
+transonic.com,13,Sohan,Error: Unrelated product,https://blog.transonic.com/extracorporeal/severe-ards-management-considerations
+ganimonline.com,13,Sohan,Error: Unrelated product,https://www.ganimonline.com/product-category/respiratory-ventilators-2/refurbished-respiratory-ventilators-2/
+pisceshealth.com,13,Sohan,Error: Related product,https://www.pisceshealth.com/catalog/respiratory/6457-fan-filter-5-pack-carefusion-ltv-series-ventilator.html
+cardinalhealth.com,12,Sreeram,Error: Unrelated product,https://www.cardinalhealth.com/en/product-solutions/medical/skin-and-wound-management/negative-pressure-wound-therapy/resources-for-negative-pressure-wound-therapy/case-studies-for-npwt/healing-a-panniculus-wound.html
+medinuclear.com,12,Sreeram,Error: Related product,http://www.medinuclear.com/
+equipmentoutreach.com,11,Sreeram,Error: Related product,https://www.equipmentoutreach.com/product-category/anesthesia/ventilators/
+sounds-resource.com,11,Sreeram,Error: Unrelated product,https://www.sounds-resource.com/pc_computer/cartoonnetworkuniversefusionfall/sound/24324/
+mgcdiagnostics.com,11,Sreeram,Correct,https://www.mgcdiagnostics.com/news/fda-authorizes-low-cost-ventilator-developed-by-u-of-m
+kroslakent.com,10,Sreeram,Correct,http://www.kroslakent.com/cgi-bin/shop/pid_1888.htm?product=Operating_Room
+dynasthetics.com,10,Sreeram,Error: Related product,https://www.dynasthetics.com/
+mednax.com,9,Sreeram,Error: Unrelated product,https://www.mednax.com/practice/pediatrix-medical-group-of-texas-san-antonio/
+sonarmed.com,9,Sreeram,Error: Related product,https://www.sonarmed.com/airwave-technology/
+livengoodmed.com,9,Sreeram,Correct,https://livengoodmed.com/mobigo/
+bruker.com,9,Sreeram,Error: Unrelated product,https://www.bruker.com/cn/products/microtomography/academy/2015/gated-lung-imaging-and-analysis.html
+pnmedical.com,9,Sreeram,Error: Related product,https://www.pnmedical.com/product/the-breather/
+mrimed.com,9,Sreeram,Correct,https://www.mrimed.com/Category/mri_ventilators
+automedx.biz,8,Sreeram,Correct,http://automedx.biz/save-ii/
+precisionmedical.com,7,Sreeram,Error: Unrelated product,https://www.precisionmedical.com/media/1141/aarc-clinical-practice-guidelines.pdf
+boehringerlabs.com,7,Sreeram,Error: Unrelated product,https://www.boehringerlabs.com/wp-content/uploads/2017/04/0000120.pdf
+copanusa.com,7,Sreeram,Error: Unrelated product,https://www.copanusa.com/wp-content/uploads/2019/08/231504302918_JCM_Wound_StaphSR_2017.pdf
+quickmedical.com,7,Sreeram,Error: Unrelated product,http://www.quickmedical.com/downloads/summit-sprf26-portable-cooler-manual.pdf
+humana.com,7,Sreeram,Error: Unrelated product,http://espanol.humana.com/sdapps/marketing/documents.asp?file=3296085
+oceanicmedical.com,7,Sreeram,Correct,http://oceanicmedical.com/magellan_ventilator.php
+bostonscientific.com,7,,,https://www.bostonscientific.com/en-US/boston-scientific-response-to-the-covid-19-pandemic.html
+neomedinc.com,6,,,https://www.neomedinc.com/oral-colostrum-kits/
+denovamedical.com,6,,,https://www.denovamedical.com/ge-datex-ohmeda-aespire-view.html
+wbmedical.com,6,,,http://wbmedical.com/
+integratedhc.com,6,,,https://www.integratedhc.com/
+centene.com,6,,,https://www.centene.com/content/dam/centene/policies/clinical-policies/CP.MP.81.pdf
+spiration.com,6,,,http://www.spiration.com/us/patients/potential-benefits-risks
+chinookmed.com,6,,,https://www.chinookmed.com/item/525252/save-ii-ventilator-kit/1.html
+merit.com,6,,,http://cloud.merit.com/catalog/IFUs/401110001-B.pdf
+americanmedsupply.com,5,,,https://www.americanmedsupply.com/products/medical-batteries/RD5090.html
+medtechinnovator.org,5,,,https://medtechinnovator.org/company/colabs-3/
+creoquality.com,5,,,https://creoquality.com/all/two-new-portable-ventilators-hitting-the-market/
+amerdental.com,5,,,https://www.amerdental.com/blog/fda-recall-980-ventilator-system/
+respiratorymotion.com,5,,,http://www.respiratorymotion.com/
+medivance.com,5,,,http://www.medivance.com/pdf/1112-22.pdf
+communitymedicalsupply.com,5,,,https://www.communitymedicalsupply.com/catalog/online-catalog-product/85578/aircurve-10-asv
+cookmedical.com,5,,,https://www.cookmedical.com/critical-care/intubation-insights-with-professor-frova/
+glytecsystems.com,5,,,https://glytecsystems.com/News/paul-chidester-md-how-sentara-healthcare-achieved-the-standard-of-care-in-glycemic-management-and-your-organization-can-too.html
+gatewaymed.com,5,,,http://www.gatewaymed.com/product.aspx?productId=34
+ridrx.com,5,,,http://www.ridrx.com/uploads/2/9/0/2/2902513/turkey_icu_report.pdf
+acknowledge-rs.com,5,,,https://www.acknowledge-rs.com/blog/
+neurotechnetwork.org,5,,,https://neurotechnetwork.org/directory-home/respiratory-disorders/
+convatec.com,5,,,https://marketingworld.convatec.com/MarketPortCore/MediaFile/DownloadByApplication?applicationToken=dc038e44b0b0ee4d8616f7b6880b24551bfecf237645a04fb5b76ab792a36858&itemId=67da6820-0180-4ecc-b4aa-e5f8731dfcf3&mediaFileId=ef4ca52b-4af2-421a-8c51-4ec4725ee1da&forceDownload=true
+sandiawheelchairs.com,5,,,http://www.sandiawheelchairs.com/Catalog/Online-Catalog-Product/551/Tdx3sp
+pharmerica.com,4,,,https://www.pharmerica.com/wp-content/uploads/2019/07/The-Ultimate-Guide-to-PDPM-Reimbursement.pdf
+alterg.com,4,,,https://www.alterg.com/treadmill-training-rehab/rehabilitation/jerilynns-road-to-recovery-with-empower-physical-therapy-and-fitness
+safetec.com,4,,,https://blog.safetec.com/what-are-the-4-types-of-healthcare-associated-infections
+coopersurgical.com,4,,,https://www.coopersurgical.com/portals/_default/skins/cooper/catalogs/coopersurgical_critical_care_products_catalog.pdf
+beekley.com,4,,,https://blog.beekley.com/welcome-to-the-new-reality-%E2%80%93-serving-our-customers-by-staying-home
+circadiance.com,4,,,https://circadiance.com/wp-content/uploads/2014/03/A-101099-Rev3-SleepWeaver-Anew-Swedish-IFU.pdf
+idtxsystems.com,4,,,https://www.idtxsystems.com/
+dx.advamed.org,4,,,https://dx.advamed.org/sites/dx.advamed.org/files/resource/fttot_poc_social_media.pdf
+stores.hhd1.com,4,,,http://stores.hhd1.com/adult-tracheostomy-mask-hud1075ea/
+shockwavemedical.com,4,,,http://shockwavemedical.com/wp-content/uploads/2019/05/PN-62030-Rev-A-825D-Operator-Manual-US.pdf
+uhsinc.com,4,,,https://jobs.uhsinc.com/jobs/38508?lang=en-us
+metrex.com,4,,,https://www.metrex.com/en-us/news/surface-disinfection-and-hais
+pointofcare.abbott,4,,,https://www.pointofcare.abbott/us/en/knowledge-center/case-studies/CVICU-Process-Workflow
+ensigngroup.net,4,,,http://investor.ensigngroup.net/news-releases/news-release-details/ensign-group-acquires-colorado-post-acute-care-campus
+healthaidofohio.com,4,,,https://www.healthaidofohio.com/resource-center/medical-glossary
+airwaysdevelopment.com,4,,,http://www.airwaysdevelopment.com/index.php/capette-label
+baxter.com,4,,,https://www.baxter.com/baxter-newsroom/baxter-debuts-enteral-nutrition-enfitr-syringe-and-accesory-line-during-clinical
+bpmedicalsupplies.com,4,,,https://www.bpmedicalsupplies.com/Products/Airway-Maintenance/Ventilators-Accsesories/
+globalsourcemedical.com,4,,,https://www.globalsourcemedical.com/Respironics-Trilogy-100-Portable-Ventilator_p_14568.html
+aesol.com,3,,,https://aesol.com/product-category/jet-ventilators/
+kinsahealth.com,3,,,https://www.kinsahealth.com/blog/what-is-rsv
+altramedical.com,3,,,https://www.altramedical.com/edan-vital-signs-monitor-with-respironics-capnostat5-mainstream-etco2-and-spo2/
+providacare.com,3,,,https://providacare.com/niv/
+engler-engineering.com,3,,,https://www.engler-engineering.com/cgi/hazel.cgi?action=serve&item=ads1000.htm
+perrybaromedical.com,3,,,https://perrybaromedical.com/products/hyperbaric-oxygen-therapy-chambers/dualplace-hyperbaric-chamber-systems/
+mohawkmedicalmall.com,3,,,https://www.mohawkmedicalmall.com/Hudson-60725-Non-Vented-NIV-Masks
+southwestmobility.com,3,,,https://shop.southwestmobility.com/quickie-wheelchairs-s-6-series-detail.htm?productid=21857591
+wykleresearch.com,3,,,https://wykleresearch.com/pdf's/SDS%20ANA%202000%20Capsules.pdf
+respirtech.com,3,,,https://www.respirtech.com/therapies.html
+fluidigm.com,3,,,http://cn.fluidigm.com/citations/inflammation-and-immune-related-candidate-gene-associations-with-acute-lung-injury-susceptibility-and-severity-a-validation-study
+mvapmed.com,3,,,https://www.mvapmed.com/esophageal-balloon-catheter.html
+leafhealthcare.com,3,,,http://www.leafhealthcare.com/pdfs/LH_WP_NursingWorkflow_1578AA_030818.pdf
+ardeltamedical.com,3,,,https://ardeltamedical.com/images/GEN-1057_Guide-Medicare-Screening-List_13th-Ed_03-19_v44_FNL.pdf
+cenorin.com,3,,,https://www.cenorin.com/blog.html
+onestoprent.com,3,,,https://www.onestoprent.com/product/blower-ventilator-electric/
+baycorporation.com,3,,,https://www.baycorporation.com/documents/hoseassemblies/Bay%20Corporation%20Medical%20Gas%20Hose%20Assemblies.pdf
+webmedbooks.com,3,,,https://www.webmedbooks.com/mercyoh/content/productdetail.aspx/upc=c73005b8-b127-43a2-9872-047178a049f9
+a-msystems.com,3,,,https://www.a-msystems.com/p-1162-hydromax-heat-and-moisture-exchange-hme-filter.aspx
+boydtech.com,3,,,https://knowledge.boydtech.com/7-steps-to-effectively-dual-source-a-supply-chain-for-medical-devices
+biolase.com,3,,,https://www.biolase.com/ventilators/
+dentalcity.com,3,,,https://www.dentalcity.com/MSDS/77-611433.pdf
+apswater.com,3,,,https://www.apswater.com/shopexd.asp?id=29740&title=ADJUSTABLE+VENTILATOR+CAP+505075
+bodysupport.com,3,,,https://bodysupport.com/blog/
+dolores1.com,3,,,https://www.dolores1.com/dolores-one/benefits/
+shofu.com,3,,,https://www.shofu.com/en/wp-content/uploads/sites/2/2014/05/SDS_SOLIBOND.pdf
+eamed.com,3,,,https://www.eamed.com/products
+cardiofocus.com,3,,,https://www.cardiofocus.com/about/
+biomaterials.org,3,,,https://www.biomaterials.org/sites/default/files/docs/2014/biodays_2012_rice-texas_am-univtx_abstracts.pdf
+psahealthcare.com,3,,,http://www.psahealthcare.com/wp-content/uploads/2017/02/diaphragm-pacer.pdf
+methodsense.com,3,,,https://methodsense.com/ba5i
+acuteinnovations.com,3,,,https://acuteinnovations.com/wp-content/uploads/2019/03/RBP7031_B-Case_Study_Booklet.pdf
+galaxymedical.net,2,,,https://galaxymedical.net/media/518d1d7c8057b.pdf
+alpinesolutionsinc.com,2,,,https://alpinesolutionsinc.com/agfa-replacement-parts/
+basinc.com,2,,,https://www.basinc.com/assets/library/issues/20-4/20-4n.pdf
+medtronicdiabetes.com,2,,,https://www.medtronicdiabetes.com/loop-blog/important-update-for-medtronic-customers/
+life-recovery.com,2,,,http://www.life-recovery.com/pdf/clinical/CriticalCare_2008_12(3)_R78.pdf
+syncardia.com,2,,,https://syncardia.com/story/jordan/
+kopfinstruments.com,2,,,http://kopfinstruments.com/app/uploads/2016/06/Carrier22.pdf
+centraloxygen.com,2,,,https://www.centraloxygen.com/services/10
+tidiproducts.com,2,,,https://tidiproducts.com/wp-content/uploads/2018/12/M1395-Posey%C2%AE-Secure-Tie.pdf
+curativemedical.com,2,,,http://www.curativemedical.com/products.html
+abmedtech.com,2,,,http://www.abmedtech.com/
+percuvision.com,2,,,https://percuvision.com/resources/clinical/cauti-resources
+medshare.org,2,,,https://www.medshare.org/biomedical-equipment/
+spectrummedical.net,2,,,http://www.spectrummedical.net/Resource-Center/Medical-Glossary
+arthrex.com,2,,,https://www.arthrex.com/newsroom/arthrex-news/press-releases/2020/04/17/arthrex-manufactures%2C-donates-protective-equipment-for-southwest-florida-healthcare-providers%2C-first-responders-in-community-covid-19-response
+carestream.com,2,,,https://www.carestream.com/blog/2014/12/01/testing-specialized-tomosynthesis-system-lung-imaging/
+asiaactual.com,2,,,http://www.asiaactual.com/wp-content/uploads/2017/06/notice-29_6_2017.pdf
+suncoastsurgical.com,2,,,http://www.suncoastsurgical.com/product/old/12_Equipment.pdf
+elmtreemedical.com,2,,,http://www.elmtreemedical.com/blog-elmtree/2017/3/28/a-balancing-act-ideal-delivery-timing-chronic-hypertension
+gcmiatl.com,2,,,https://gcmiatl.com/2017/10/04/alung-receives-ide-approval-hemolung-ras/
+mediaidinc.com,2,,,http://mediaidinc.com/charts/oxygen_sensors/Cross%20Reference%20Compatible%20Oxygen%20Analyzer%20Sensor%20Chart%20-%2007312015.pdf
+bryanmedical.net,2,,,http://www.bryanmedical.net/wp-content/uploads/2015/04/Tracheostomy-Pediatric-Care-Guide-in-English_v2.pdf
+medicalcarealert.com,2,,,https://www.medicalcarealert.com/Articles.asp?ID=330
+bioness.com,2,,,https://www.bioness.com/Documents/international/Netherlands/informatiebronnen/l300/H8%20van%20Mp612-00052-001_Rev.%20B.pdf
+organ-recovery.com,2,,,https://www.organ-recovery.com/wp-content/uploads/2019/12/755-00002nl-Rev-L-LKT101-Operators-Manual.pdf
+civco.com,2,,,https://clinical.civco.com/blog/reduce-risk-contamination-ultrasound-guided-procedures/
+nuvaira.com,2,,,https://www.nuvaira.com/wp-content/uploads/2019/06/MCA-0066-ERS-2017-Poster-Improved-Pulmonary-Function-Johnson-30Aug2017.pdf
+communitytissue.org,2,,,https://www.communitytissue.org/es/donors-and-recipients/donor-family-services/connected-by-giving-donor-quilts/
+unitedhealthgroup.com,2,,,https://www.unitedhealthgroup.com/newsroom/2020/2020-04-23-boston-scientific-medtronic-uofm-collaboration.html
+meddevicejobs.com,2,,,https://www.meddevicejobs.com/news/
+j2smedical.com,2,,,http://j2smedical.com/
+saffiremedical.com,2,,,http://www.saffiremedical.com/Sell_Your_Equipment.php
+accessmedicalsupply.com,2,,,http://www.accessmedicalsupply.com/AMS_Product_Literature/Neo-Pod-T-Brochure-75368-01.pdf
+wrighttrachsolutions.com,2,,,http://www.wrighttrachsolutions.com/uploads/8/1/7/8/8178198/partnership_for_patients_preventing_tai_complications.pdf
+neotechproducts.com,2,,,https://www.neotechproducts.com/2018/01/kaseys-and-our-story/
+logiquip.com,2,,,https://www.logiquip.com/productdocumentation/1-01-ventilator-cart-specification-guide/
+medcad.net,2,,,https://medcad.net/covid-19/pneumaflow/
+biofiredx.com,2,,,https://www.biofiredx.com/products/the-filmarray-panels/filmarrayrp/
+dyansys.com,2,,,https://www.dyansys.com/sites/default/files/anesthesia-Autonomic-Nervous-System.pdf
+aeendoscopy.com,2,,,https://www.aeendoscopy.com/accessories/puritan-bennett-achieva-pso2-ventilator
+brainmaster.com,2,,,http://www.brainmaster.com/software/pubs/brain/Whitham%20EMG.pdf
+syndaver.com,2,,,https://syndaver.com/2020/04/07/tampa-company-begins-manufacturing-respirators-to-help-with-florida-shortage/
+midstarlab.com,2,,,https://www.midstarlab.com/resources/foot-conditions/charcot-marie-tooth
+godynamic.com,2,,,http://www.godynamic.com/docs/news/2008_05-14_PhysiciansPractice.pdf
+biospherix.com,1,,,https://www.biospherix.com/pdf/BioSpherix%20Customer%20Publication%20List%20Nov2017.pdf
+brasselerusa.com,1,,,http://brasselerusa.com/wp-content/files/NSK-SDS-003US_Rev001_PANA_SPRAY_PLUS(E).pdf
+avitallink.com,1,,,https://www.avitallink.com/medical-alarms-and-keeping-seniors-safe-while-respecting-and-preserving-their-dignity-all-at-the-same-time/
+quidel.com,1,,,https://www.quidel.com/sites/default/files/product/documents/UM2027805NL00_%2801_20%29_Solana_User_Manual.pdf
+nhccare.com,1,,,https://nhccare.com/locations/west-meade-place/
+ams-dfw.com,1,,,http://www.ams-dfw.com/Resource-Center/Medical-Glossary.aspx
+durrettsoandp.com,1,,,http://www.durrettsoandp.com/Resource-Center/Medical-Health-Issues.aspx?Issue=Muscular%20Dystrophy&tid=199
+etoims.com,1,,,https://etoims.com/wp-content/uploads/2019/09/february-2019.pdf
+veritasdentalresources.com,1,,,http://veritasdentalresources.com/c/26/service/corporate/corporate4.html
+gordonjohnsonarchitecture.com,1,,,http://www.gordonjohnsonarchitecture.com/images/FAY%20Addendum%202.pdf
+ambiomedical.com,1,,,http://www.ambiomedical.com/about/our-team/petrona
+skedco.com,1,,,https://skedco.com/Public/Documents/JEMSHotProducts_535418383.pdf
+molnlycke.us,1,,,https://www.molnlycke.us/SysSiteAssets/master-and-local-markets/documents/us/prevention-documents/anti-septics/studies-using-hibiclens.pdf
+modularservices.com,1,,,https://www.modularservices.com/sites/default/files/files/documents/case-studies/massachusetts-general/MGH%20Case%20Study.pdf
+bioenergyribose.com,1,,,http://www.bioenergyribose.com/the-science/clinical-studies/heart-health
+bionicsoandp.com,1,,,https://www.bionicsoandp.com/referencelibrary.html
+bio-rad.com,1,,,http://www.bio-rad.com/webroot/web/pdf/inserts/CDG/en/IFU%20CMV%20Brite%20Turbo%20short%20v.3.pdf
+acesurgical.com,1,,,https://www.acesurgical.com/oxygen-pressure-regulator-with-constant-flow-control-regulator-reducer-34
+appliedmedical.net,1,,,https://www.appliedmedical.net/marlowes-minione-balloon-button/
+bioventusglobal.com,1,,,https://www.bioventusglobal.com/wp-content/uploads/Harvard-Pilgram-Health-Care-01-2016.pdf
+eraymedical.com,1,,,https://www.eraymedical.com/derenewiin80.html
+nsiiweb.com,1,,,http://nsiiweb.com/wp-content/uploads/2019/05/Clinical-Study-QMR_Standard-ESU-Comparission-Dr.-Rea.pdf
+spectrascience.com,1,,,http://www.spectrascience.com/images/uploads/manuals/800308-S-031_Rev_A_International_User_Manual_WS4_Dutch.pdf
+airwayoxygeninc.com,1,,,https://www.airwayoxygeninc.com/uploads/CIB-2017-12.pdf
+quandx.com,1,,,http://www.quandx.com/wp-content/uploads/2016/07/QuanDX_brochure_MRSA-6-23-16.pdf
+candrmedical.net,1,,,http://www.candrmedical.net/patientcaregivers3526.html?issue=muscular_dystrophy
+musclepower.com,1,,,http://www.musclepower.com/pdf/People%202002-9-23.pdf
+biodynamics.us,1,,,http://www.biodynamics.us/docs/lmn/CMN%20letter%20example%2004.pdf
+imedco.net,1,,,http://www.imedco.net/wp-content/uploads/2015/08/150813_DotMedArticleReprintSmall.pdf
+dynasplint.com,1,,,https://dynasplint.com/company/news/
+transmedics.com,1,,,https://www.transmedics.com/wp-content/uploads/2019/03/100004071_REV5_OCS_Lung_System_-_Clinical_User_GuideSmall.pdf
+general-devices.com,1,,,https://general-devices.com/new-york
+zoemedical.com,1,,,http://zoemedical.com/vital-signs/
+neurowavesystems.com,1,,,http://www.neurowavesystems.com/news_in3.html
+compressionworks.com,1,,,http://compressionworks.com/wp-content/uploads/2014/12/AAT-JSOM-FALL13.pdf
+sci-bay.com,1,,,https://www.sci-bay.com/product-category/pumps/?add-to-cart=1857
+jakenmedical.com,1,,,https://jakenmedical.com/refurbished-equipment/refurbished-ge-carescape-b850-patient-monitor/
+foothillsmedicalsupply.com,1,,,http://www.foothillsmedicalsupply.com/bio_medical.php
+summitmedtech.com,1,,,https://summitmedtech.com/arc-medical-circuitguard/
+cpapplus.com,1,,,https://www.cpapplus.com/info/puritan-bennett
+dechoker.com,1,,,https://www.dechoker.com/pages/another-needless-victim-requests
+westpharma.com,1,,,https://www.westpharma.com/en/blog/2020/April/from-local-survivor-to-lifesaver-marisa-leuzzi-shares-her-incredible-journey-with-covid-19?tag=West%20in%20the%20Community
+thejoint.com,1,,,https://www.thejoint.com/arizona/avondale/gateway-crossing-48019/the-best-noise-for-less-stress-and-more-productivi
+revisionmilitary.com,1,,,https://www.revisionmilitary.com/de/asian-locust-fan-goggle-essential-kit
+brytoncorp.com,1,,,https://brytoncorp.com/thebrytonpost/ohio-hospital-association-receives-recognition-for-signature-handhygiene-program/
+broadwaymed.com,1,,,http://www.broadwaymed.com/Resource-Center/Medical-Glossary
+medical-stretchers.com,1,,,https://medical-stretchers.com/blog/4-things-to-do-immediately-if-your-injure-your-spine/
+lifeline.co,1,,,https://www.lifeline.co/
+punxsymed.com,1,,,https://www.punxsymed.com/services/critical-needs/
+hartrx.com,1,,,https://www.hartrx.com/Resource-Center/Medical-Glossary
+neuroprotexeon.com,1,,,https://www.neuroprotexeon.com/npxe/research-and-development/
+neurologica.com,1,,,https://www.neurologica.com/published-articles
+nddmed.com,1,,,https://www.nddmed.com/_Resources/Persistent/4c4a31c7eaf34dfed6a07bf3b10cceb3f82e2d87/appnote-eoplab-validation-v01r.pdf
+mirusmed.com,1,,,https://mirusmed.com/wp-content/uploads/2019/01/India-West-Profile-Yadav-Jan25.pdf
+cddiagnostics.com,1,,,https://cddiagnostics.com/instructions/PDF/LF%20Test%20Kit%20IFUs/HU_M40004B_V6_Synovasure_Alpha_Defensin_Lateral_Flow_IFU.pdf
+mdic.org,1,,,https://mdic.org/wp-content/uploads/2018/02/Tiwari-Bayesian-approach-to-the-design-and-analysis-of-NI-trials-for-anti-infective-products.pdf
+marketingassessment.com,1,,,http://www.marketingassessment.com/product2.php
+caretakermedical.net,1,,,http://www.caretakermedical.net/wp-content/uploads/2017/03/Gratz_et_al-2017-BMC_Anesthesiology.pdf
+advantagemedicalsupply.com,1,,,http://www.advantagemedicalsupply.com/index.php?page=store/items.php&mysearchterms=2&search_type=2&sort_order=&favorite_id=&row_offset=645
+bluephantom.com,1,,,https://www.bluephantom.com/docs/AHRQ_Making_Healthcare_Safer.pdf
+smartvest.com,1,,,http://smartvest.com/wp-content/uploads/2013/02/2010_Electromed_10-K.doc
+dealmed.com,1,,,https://www.dealmed.com/SPU-Ventilator-Circuit-w-o-PEEP-for-LTV-1200-1150-and-1100-Adult-6-ft
+medprous.com,1,,,http://www.medprous.com/ems_news/zoll-introduces-the-z-vent-portable-ventilator-for-ems-and-hospital-use-2/
+meddev.info,1,,,http://meddev.info/_documents/R2_2-4_rev5.pdf
+join.sleepgroupsolutions.com,1,,,https://join.sleepgroupsolutions.com/wp-content/uploads/2019/09/UTILITY-OF-ACOUSTIC-PHARYNGOMETRY-FOR-THE-DIAGNOSIS-OF-CLINICAL-SLEEP-APNEA..pdf
+laramyk.com,1,,,https://www.laramyk.com/uncategorized/covid-19-update-from-david-sinclair/
+welchallyn.com,1,,,https://www.welchallyn.com/content/dam/welchallyn/documents/upload-docs/Product-Literature/Brochure/MC11837SS%20%20Connex%20VSM.pdf
+rexmedical.com,1,,,http://rexmedical.com/documents/UltraStream-093838-Argon-PRF-1.pdf
+healthdev.com,1,,,https://healthdev.com/about/parent/
+lifesynccorp.com,1,,,http://lifesynccorp.com/wp-content/uploads/2014/09/LS-1126-Rev-A-Practice-Resource-Network.pdf
+hcdynamics.com,1,,,https://www.hcdynamics.com/getingecriticalcare
+genmarkdx.com,1,,,https://admin.genmarkdx.com/wp-content/uploads/2019/02/GNMK-IMC-2057-A-ePlex-RP-Patient-Centered-Care-EU.pptx
+loriacarrinc.com,1,,,http://www.loriacarrinc.com/news/ahead-of-g20-meeting-who-issues-call-to-arms-for-r-d-push-against-resistant-bacteria/
+emst150.com,1,,,http://emst150.com/wp-content/uploads/2019/11/Respiratory-Muscle-Strength-Training-1.pdf
+txmedicalsupply.com,1,,,https://www.txmedicalsupply.com/cprmicroshield.aspx
+nozin.com,1,,,https://www.nozin.com/mssa-vs-mrsa-what-is-the-difference/
+biolargo.com,1,,,https://www.biolargo.com/post/biolargo-2019-annual-report-highlights-record-revenues-new-channel-partnerships-and-commercializat
+cardioquip.com,1,,,https://www.cardioquip.com/news/2020/3/26/cardioquip-mch-1000-earns-ce-mark-approval
+medicaldevicestore.com,1,,,https://www.medicaldevicestore.com/blog/the-anesthesiologists-toolbox/
+usdentaldepot.com,1,,,http://usdentaldepot.com/downloads_dir/webUSA/OZ_PLUS_Intsruction_Manual.pdf
+carestreamamerica.com,1,,,http://www.carestreamamerica.com/wp-content/uploads/2015/02/Neo-Pod-T-Brochure-74980-02.pdf
+europe.medtronic.com,1,,,https://europe.medtronic.com/xd-en/healthcare-professionals/education-training/impact/learning-programmes/respiratory-compromise-masterclass.html
+harmonyhomemedical.com,1,,,https://harmonyhomemedical.com/all-types-of-medical-equipment/
+majorsmedicalservice.com,1,,,http://www.majorsmedicalservice.com/Resource-Center/Medical-Glossary
+spartanmedspine.com,1,,,http://spartanmedspine.com/files/NAMRU-SA_TECHNICAL_REPORT_2012-22_30_Mar_12.pdf
+vrmedical.net,1,,,http://www.vrmedical.net/cp.asp?cid=162
+access2mobility.com,1,,,https://access2mobility.com/product-detail/quickie-qm-710-power-wheelchair/
+adctoday.com,1,,,https://www.adctoday.com/sites/default/files/literature/93-4053-00%20rev%203%20EN%20WEB_0.pdf
+globalmed.com,1,,,https://www.globalmed.com/category/seniors/
+kdfus.com,1,,,https://kdfus.com/wp-content/uploads/2014/04/007EX-Instruction-Manual.pdf
+onebreathventilators.com,1,,,http://onebreathventilators.com/
+kdscientific.com,1,,,https://www.kdscientific.com/contacts
+footscientific.com,1,,,https://www.footscientific.com/foot-conditions/polio/
+autogen.com,1,,,https://autogen.com/wp-content/uploads/2019/06/QuickGene-AutoS-DNA-Blood-Kit_SDS_AS-DBE.pdf
+floridamobilityproducts.com,1,,,https://www.floridamobilityproducts.com/images/TDX5%20Specs.pdf
+ncmedicalsupply.com,1,,,https://www.ncmedicalsupply.com/resource-center/medical-glossary
+aesculight.com,1,,,https://www.aesculight.com/case-studies/sea-turtle-fibropapillomatosis-laser-surgery/
+beatmed.com,1,,,https://beatmed.com/products.html
+medsource-sw.com,1,,,https://www.medsource-sw.com/or-patient-monitors/m1034b-bis-module/
+farmpd.com,1,,,https://www.farmpd.com/farm-blog/what-big-data-means-for-medical-devices
+sea-long.com,1,,,https://www.sea-long.com/media
+amsino.com,1,,,http://www.amsino.com/assets/docs/Drug_Delivery_Comparison_using_the_Amsino_OneMask_on_a_Ventilated_Human_Model_%28two_column%29_-_Final.pdf
+nxstage.com,1,,,https://www.nxstage.com/hcp/therapies/pirrt/
+advancedrenaltechnologies.com,1,,,http://www.advancedrenaltechnologies.com/pdf/CRRT2007Abstracts.pdf
+nci-cg.com,1,,Error: Unrelated,https://nci-cg.com/lynn-everard/
