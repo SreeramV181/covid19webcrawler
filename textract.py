@@ -35,6 +35,8 @@ def bagOfWords(extracted_text):
     return text_counts
 
 def train_classifier(X, y):
+    print(X.shape)
+    print(y.shape)
     X_train, y_train, X_test, y_test = train_test_split(X, y, test_size=.2)
     gnb = GaussianNB()
     y_pred = gnb.fit(X_train, y_train).predict(X_test)
@@ -64,7 +66,7 @@ def main():
     classifications = classifications_df['Class'].to_list()
 
     # Convert classifications to integer buckets
-    bucketized_classifications = bucketize_classification(classifications[:109])
+    bucketized_classifications = np.array(bucketize_classification(classifications[:109]))
 
     #Extract text from websites
     extracted_text = extract_text_from_urls(URLS[:109])
@@ -77,7 +79,7 @@ def main():
     with open('classes.pickle', 'wb') as g:
         pickle.dump(classifications, g)
 
-    train_classifier(text_counts, classifications)
+    train_classifier(text_counts, bucketize_classifications)
 
 
 
