@@ -3,6 +3,7 @@
 import pandas as pd
 import requests
 import pickle
+import numpy as np
 from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
@@ -24,6 +25,7 @@ def extract_text_from_urls(URLS):
                 currURL += str(paragraph.text) + " "
             webpage_texts.append(currURL)
         except:
+            webpage_texts.append("") # to make sure shape is consistent
             print("Connection refused")
     return webpage_texts
 
@@ -37,10 +39,10 @@ def bagOfWords(extracted_text):
 def train_classifier(X, y):
     print(X.shape)
     print(y.shape)
-    X_train, y_train, X_test, y_test = train_test_split(X, y, test_size=.2)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2)
     gnb = GaussianNB()
     y_pred = gnb.fit(X_train, y_train).predict(X_test)
-    print("Number of mislabeled points out of a total %d points : %d" (X_test.shape[0], (y_test != y_pred).sum()))
+    print("Number of mislabeled points out of a total {} points : {}".format(X_test.shape[0], (y_test != y_pred).sum()))
 
 def bucketize_classification(classifications):
     # Correct = 0
@@ -48,12 +50,12 @@ def bucketize_classification(classifications):
     # Error: Unrelated product = 2
     bucketized_classifications = []
     for category in classifications:
-        if category == "Correct":
+        if category == "Correct" or category == "Error: Related product":
             bucketized_classifications.append(0)
-        elif category == "Error: Related product":
-            bucketized_classifications.append(1)
+        # elif category == "Error: Related product":
+        #     bucketized_classifications.append(1)
         else:
-            bucketized_classifications.append(2)
+            bucketized_classifications.append(1)
     return bucketized_classifications
 
 
@@ -73,13 +75,13 @@ def main():
     # print(extracted_text)
 
     #Create bag of words features
-    text_counts = bagOfWords(extracted_text)
+    text_counts = bagOfWords(extracted_text).toarray()
     with open('text_counts.pickle', 'wb') as f:
         pickle.dump(text_counts, f)
     with open('classes.pickle', 'wb') as g:
         pickle.dump(classifications, g)
 
-    train_classifier(text_counts, bucketize_classifications)
+    train_classifier(text_counts, bucketized_classifications)
 
 
 
