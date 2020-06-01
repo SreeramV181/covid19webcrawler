@@ -5,6 +5,7 @@ import requests
 import pickle
 import numpy as np
 from bs4 import BeautifulSoup
+import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from nltk.tokenize import RegexpTokenizer
@@ -12,6 +13,7 @@ from time import sleep
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 def extract_text_from_urls(URLS):
     webpage_texts = []
@@ -31,9 +33,20 @@ def extract_text_from_urls(URLS):
 
 def bagOfWords(extracted_text):
     #tokenizer to remove unwanted elements from out data like symbols and numbers
-    token = RegexpTokenizer(r'[a-zA-Z0-9]+')
-    cv = CountVectorizer(lowercase=True,stop_words='english',ngram_range = (1,1),tokenizer = token.tokenize)
+    token = RegexpTokenizer(r'[a-zA-Z]+')
+
+    # ## Compare TFIDF vs CountVectorizer
+    # # TFIDF
+    # vectorizer = TfidfVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df = 2, tokenizer=token.tokenize)
+	# text_counts = vectorizer.fit_transform(extracted_text)
+	# print("TFIDF Vocab")
+	# print(vectorizer.vocabulary_)
+
+    # CountVectorizer
+    cv = CountVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df=2, tokenizer = token.tokenize)
     text_counts= cv.fit_transform(extracted_text)
+    # print(cv.get_feature_names())
+    # #print(cv.vocabulary_)
     return text_counts
 
 def train_classifier(X, y):
