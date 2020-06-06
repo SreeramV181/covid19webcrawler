@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from time import sleep
 from sklearn.naive_bayes import GaussianNB
-from utils import extract_text_from_urls, get_urls_classes_from_file, bagOfWords, bucketize_classifications
+from utils import extract_text_from_urls, get_urls_classes_from_file, bagOfWords, bucketize_classification
 
 def train_classifier(X, y):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2)
