@@ -31,6 +31,16 @@ def extract_text_from_urls(URLS):
             print("Connection refused")
     return webpage_texts
 
+def get_urls_classes_from_file(filename):
+    URLS = []
+    classifications = []
+    URLS_df = pd.read_csv(filename, sep=",") #.tolist()
+    classifications_df = pd.read_csv(filename', sep=",") #.tolist()
+    URLS = URLS_df['Webpage'].to_list()
+    classifications = classifications_df['Class'].to_list()
+    return (URLS, classifications)
+
+
 def bagOfWords(extracted_text):
     #tokenizer to remove unwanted elements from out data like symbols and numbers
     token = RegexpTokenizer(r'[a-zA-Z]+')
@@ -73,12 +83,7 @@ def bucketize_classification(classifications):
 
 
 def main():
-    URLS = []
-    classifications = []
-    URLS_df = pd.read_csv('Rawcrawl_data.csv', sep=",") #.tolist()
-    classifications_df = pd.read_csv('Rawcrawl_data.csv', sep=",") #.tolist()
-    URLS = URLS_df['Webpage'].to_list()
-    classifications = classifications_df['Class'].to_list()
+    URLS, classifications = get_urls_classes_from_file("Rawcrawl_data.csv")
 
     # Convert classifications to integer buckets
     bucketized_classifications = np.array(bucketize_classification(classifications[:109]))
