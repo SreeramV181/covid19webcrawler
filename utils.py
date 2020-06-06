@@ -3,6 +3,7 @@ import spacy
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from nltk.tokenize import RegexpTokenizer
 import requests
+import pandas as pd
 
 def extract_text_from_urls(URLS):
     webpage_texts = []
