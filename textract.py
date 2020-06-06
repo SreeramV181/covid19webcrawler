@@ -45,21 +45,13 @@ def bagOfWords(extracted_text):
     #tokenizer to remove unwanted elements from out data like symbols and numbers
     token = RegexpTokenizer(r'[a-zA-Z]+')
 
-    # ## Compare TFIDF vs CountVectorizer
-    # # TFIDF
-    # vectorizer = TfidfVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df = 2, tokenizer=token.tokenize)
-	# text_counts = vectorizer.fit_transform(extracted_text)
-	# print("TFIDF Vocab")
-	# print(vectorizer.vocabulary_)
-
-    # CountVectorizer
-    cv = CountVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df=2, tokenizer = token.tokenize)
-    text_counts= cv.fit_transform(extracted_text)
+    vectorizer = TfidfVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df = 1, tokenizer=token.tokenize)
+    text_counts = vectorizer.fit_transform(extracted_text)
+    # cv = CountVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df=3, tokenizer = token.tokenize)
+    # text_counts= cv.fit_transform(extracted_text)
     return text_counts
 
 def train_classifier(X, y):
-    print(X.shape)
-    print(y.shape)
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2)
     gnb = GaussianNB()
     y_pred = gnb.fit(X_train, y_train).predict(X_test)
