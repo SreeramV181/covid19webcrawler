@@ -1,3 +1,9 @@
+from bs4 import BeautifulSoup
+import spacy
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from nltk.tokenize import RegexpTokenizer
+import requests
+
 def extract_text_from_urls(URLS):
     webpage_texts = []
     for url in URLS:
