@@ -34,8 +34,8 @@ def extract_text_from_urls(URLS):
 def get_urls_classes_from_file(filename):
     URLS = []
     classifications = []
-    URLS_df = pd.read_csv(filename, sep=",") #.tolist()
-    classifications_df = pd.read_csv(filename', sep=",") #.tolist()
+    URLS_df = pd.read_csv(filename, sep=",")
+    classifications_df = pd.read_csv(filename, sep=",")
     URLS = URLS_df['Webpage'].to_list()
     classifications = classifications_df['Class'].to_list()
     return (URLS, classifications)
@@ -55,8 +55,6 @@ def bagOfWords(extracted_text):
     # CountVectorizer
     cv = CountVectorizer(lowercase=True, stop_words='english', ngram_range = (1,1), min_df=2, tokenizer = token.tokenize)
     text_counts= cv.fit_transform(extracted_text)
-    # print(cv.get_feature_names())
-    # #print(cv.vocabulary_)
     return text_counts
 
 def train_classifier(X, y):
@@ -68,15 +66,10 @@ def train_classifier(X, y):
     print("Number of mislabeled points out of a total {} points : {}".format(X_test.shape[0], (y_test != y_pred).sum()))
 
 def bucketize_classification(classifications):
-    # Correct = 0
-    # Error: Related product = 1
-    # Error: Unrelated product = 2
     bucketized_classifications = []
     for category in classifications:
         if category == "Correct" or category == "Error: Related product":
             bucketized_classifications.append(0)
-        # elif category == "Error: Related product":
-        #     bucketized_classifications.append(1)
         else:
             bucketized_classifications.append(1)
     return bucketized_classifications
@@ -90,7 +83,6 @@ def main():
 
     #Extract text from websites
     extracted_text = extract_text_from_urls(URLS[:109])
-    # print(extracted_text)
 
     #Create bag of words features
     text_counts = bagOfWords(extracted_text).toarray()
