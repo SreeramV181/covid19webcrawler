@@ -45,6 +45,8 @@ def bucketize_classification(classifications):
     for category in classifications:
         if category == "Correct" or category == "Error: Related product":
             bucketized_classifications.append(0)
-        else:
+        elif category == "Error: Unrelated product":
             bucketized_classifications.append(1)
+        else:
+            bucketized_classifications.append(-1)
     return bucketized_classifications
